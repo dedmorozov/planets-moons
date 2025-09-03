@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { Planet as PlanetT } from "@/data/planets";
 
 type Props = {
